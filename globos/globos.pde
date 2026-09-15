@@ -8,7 +8,7 @@ class Globo
    y=_y; 
    vx=random(-0.25,0.25);
    vy=random(-2,-0.5);
-   c = color(random(0,600),150,380);
+   c = color(random(0,600),150,280);
   }
 
   void update()
